@@ -1,0 +1,22 @@
+.navbar{
+    height: 50px;
+}
+body{
+    font-family: "Trebuchet MS", sans-serif;
+}
+.fntchange{
+    font-family: "Century Gothic",sans-serif;
+}
+.hvr:hover{
+    font-family: Futura, Verdena, Arial, sans-serif;
+    color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    font-size: 30px;
+}
+.navbar-brand{
+    color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+.hello{
+    font-family: "Gill Sans MT",sans-serif;
+}
